@@ -1,0 +1,2 @@
+1,npm vue-cli -g
+2,vue init webpack "myproject"
